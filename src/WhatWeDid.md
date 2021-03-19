@@ -19,7 +19,8 @@ On a appelé notre fonction faq dans le render, afin d'afficher nos composants f
 
 On a cloné un répo git `git clone <repo-url>`
 Créer une nouvelle branche `git checkout -b <le-nom-de-ma-nouvelle-branche>`
+Pour voir les modifications effectuées on peut executer `git status`
 Ajouter les modifications que nous avons fait sur cette branche `git add -A`
 Créer un commit de nos modifications `git commit -m"mon message pour expliquer mon travail"`
-pousser notre branche et créer une PR `git push`
+pousser notre branche et créer une PR `git push --set-upstream origin sujin-faq`
 
